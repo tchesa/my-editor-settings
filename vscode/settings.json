@@ -1,0 +1,18 @@
+{
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe", // Windows only
+  "editor.wordWrap": "on",
+  "files.trimTrailingWhitespace": true,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.tabSize": 2,
+  "explorer.openEditors.visible": 0,
+  "editor.snippetSuggestions": "top",
+  "files.hotExit": "onExit",
+  "window.restoreWindows": "all",
+  "explorer.autoReveal": false,
+  "files.insertFinalNewline": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.startupEditor": "newUntitledFile"
+}
